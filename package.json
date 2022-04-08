@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Description](#description)\r - [Features](#features)\r - [User-Story](#user-story)\r - [Acceptance-Criteria](#acceptance-criteria)\r - [Usage](#usage)\r - [Webpage-Screenshots](#webpage-screenshots)\r - [Github-Link](#github-link)\r - [Deployed-Link](#deployed-link)\r - [Contributor](#contributor)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
