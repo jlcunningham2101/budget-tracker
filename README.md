@@ -35,22 +35,21 @@ This application includes the following features:
 GIVEN a CMS-style blog site
 
 GIVEN a budget tracker without an internet connection
+
 - WHEN the user inputs an expense or deposit
--- THEN they will receive a notification that they have added an expense or deposit
+  -- THEN they will receive a notification that they have added an expense or deposit
 - WHEN the user reestablishes an internet connection
--- THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+  -- THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ### Usage
 
 Application users will need to use IndexedDB to add offline functionality and PWA to add a service worker to your application. The budget tracker has a server and uses MongoDB as its database, so you’ll need to deploy this application to Heroku using MongoDB Atlas
 
-### Webpage Screenshots
-
 ### GitHub Link
 
+https://jlcunningham2101.github.io/budget-tracker/
 https://github.com/jlcunningham2101/budget-tracker
-
-### Heroku Link
+https://github.com/jlcunningham2101/budget-tracker.git
 
 ### Contributor
 

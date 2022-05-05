@@ -1,9 +1,9 @@
 {
     "name": "Budget Tracker",
     "short_name": "BudgetTracker",
-    "description": "he user will be able to add expenses and deposits to their budget with or without a connection",
-    "background_color": "#043778",
-    "theme_color": "#ffffff",
+    "description": "The user will be able to add expenses and deposits to their budget with or without a connection",
+    "background_color": "#F0FFFF",
+    "theme_color": "#7FFFD4",
     "start_url": "public/index.html",
     "display": "standalone",
     "icons": [

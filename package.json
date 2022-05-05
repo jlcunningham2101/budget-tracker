@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "- [Description](#description)\r - [Features](#features)\r - [User-Story](#user-story)\r - [Acceptance-Criteria](#acceptance-criteria)\r - [Usage](#usage)\r - [Webpage-Screenshots](#webpage-screenshots)\r - [Github-Link](#github-link)\r - [Deployed-Link](#deployed-link)\r - [Contributor](#contributor)",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
